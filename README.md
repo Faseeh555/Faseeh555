@@ -41,7 +41,7 @@ Currently pursuing **BSCS at NUML**, I love turning logic into code and sharing 
 ---
 
 ## 📲 Let's Connect
-- 📸 Instagram: [@codebyfaseeh](https://instagram.com/codebyfaseeh)  
+- 📸 Instagram: [@codebyfaseeh](https://instagram.com/faseeh.ai_)  
 - 💻 GitHub: [codebyfaseeh](https://github.com/Faseeh555)  
 - 📩 Feel free to DM for collaboration or learning resources!
 
