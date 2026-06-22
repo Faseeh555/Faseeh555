@@ -2,7 +2,7 @@
 
 Hi there! I'm **Faseeh ur Rehman Anjum**, a passionate **Python developer**, **machine learning enthusiast**, and **content creator**.  
 Currently pursuing **BSCS at NUML**, I love turning logic into code and sharing my learning journey with the world.  
-📍 Follow my Python journey on Instagram → [@codebyfaseeh](https://instagram.com/codebyfaseeh)
+📍 Follow my Python journey on Instagram → [@faseeh.ai_](https://instagram.com/faseeh.ai_)
 
 ---
 
@@ -41,8 +41,8 @@ Currently pursuing **BSCS at NUML**, I love turning logic into code and sharing 
 ---
 
 ## 📲 Let's Connect
-- 📸 Instagram: [@codebyfaseeh](https://instagram.com/faseeh.ai_)  
-- 💻 GitHub: [codebyfaseeh](https://github.com/Faseeh555)  
+- 📸 Instagram: [faseeh.ai_](https://instagram.com/faseeh.ai_)  
+- 💻 GitHub: [Faseeh555](https://github.com/Faseeh555)  
 - 📩 Feel free to DM for collaboration or learning resources!
 
 ---
