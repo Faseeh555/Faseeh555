@@ -157,10 +157,9 @@ A computer vision application that uses hand-gesture detection to simulate openi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faseeh555&theme=tokyo-night&hide_border=true" />
 </p>
 
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub handle for these to render correctly.
 
 ---
 
